@@ -1,0 +1,15 @@
+C:\Users\Mykyta\source\repos\NpSocket_P05\NpSocket_P05\obj\Debug\net6.0\NpSocket_P05.csproj.AssemblyReference.cache
+C:\Users\Mykyta\source\repos\NpSocket_P05\NpSocket_P05\obj\Debug\net6.0\NpSocket_P05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mykyta\source\repos\NpSocket_P05\NpSocket_P05\obj\Debug\net6.0\NpSocket_P05.AssemblyInfoInputs.cache
+C:\Users\Mykyta\source\repos\NpSocket_P05\NpSocket_P05\obj\Debug\net6.0\NpSocket_P05.AssemblyInfo.cs
+C:\Users\Mykyta\source\repos\NpSocket_P05\NpSocket_P05\obj\Debug\net6.0\NpSocket_P05.csproj.CoreCompileInputs.cache
+C:\Users\Mykyta\source\repos\NpSocket_P05\NpSocket_P05\bin\Debug\net6.0\NpSocket_P05.exe
+C:\Users\Mykyta\source\repos\NpSocket_P05\NpSocket_P05\bin\Debug\net6.0\NpSocket_P05.deps.json
+C:\Users\Mykyta\source\repos\NpSocket_P05\NpSocket_P05\bin\Debug\net6.0\NpSocket_P05.runtimeconfig.json
+C:\Users\Mykyta\source\repos\NpSocket_P05\NpSocket_P05\bin\Debug\net6.0\NpSocket_P05.dll
+C:\Users\Mykyta\source\repos\NpSocket_P05\NpSocket_P05\bin\Debug\net6.0\NpSocket_P05.pdb
+C:\Users\Mykyta\source\repos\NpSocket_P05\NpSocket_P05\obj\Debug\net6.0\NpSocket_P05.dll
+C:\Users\Mykyta\source\repos\NpSocket_P05\NpSocket_P05\obj\Debug\net6.0\refint\NpSocket_P05.dll
+C:\Users\Mykyta\source\repos\NpSocket_P05\NpSocket_P05\obj\Debug\net6.0\NpSocket_P05.pdb
+C:\Users\Mykyta\source\repos\NpSocket_P05\NpSocket_P05\obj\Debug\net6.0\NpSocket_P05.genruntimeconfig.cache
+C:\Users\Mykyta\source\repos\NpSocket_P05\NpSocket_P05\obj\Debug\net6.0\ref\NpSocket_P05.dll
